@@ -1,10 +1,10 @@
 "use strict";
 
 // Exercice 1
-
+//Declaration des fonctions vu dans le cours slide 45
 //Fonction F1 : Affiche le nom "John"
 function f1() {
-    console.log("John");  //Utilisation de console.log() 
+    console.log("John");  //Utilisation de console.log() vu dans le cours slide 33
 }
 
 //Fonction F2 : Affiche le prénom "Doe"
